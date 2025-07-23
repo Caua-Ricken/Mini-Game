@@ -31,4 +31,4 @@ O jogador pode lançar uma moeda virtual, visualizar a animação do resultado e
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/Mini-Game.git
+   git clone https://github.com/Caua-Ricken/Mini-Game.git
